@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EGYETEM\\V_felev\\GUI\\GUI_feladatok\\orai_munka\\gyakorlat1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F95EF3D-B127-461B-82C5-5A4F1144FEF3}|gyakorlat1_1\\gyakorlat1_1.csproj|d:\\egyetem\\v_felev\\gui\\gui_feladatok\\orai_munka\\gyakorlat1_1\\gyakorlat1_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F95EF3D-B127-461B-82C5-5A4F1144FEF3}|gyakorlat1_1\\gyakorlat1_1.csproj|solutionrelative:gyakorlat1_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F95EF3D-B127-461B-82C5-5A4F1144FEF3}|gyakorlat1_1\\gyakorlat1_1.csproj|d:\\egyetem\\v_felev\\gui\\gui_feladatok\\orai_munka\\gyakorlat1_1\\gyakorlat1_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F95EF3D-B127-461B-82C5-5A4F1144FEF3}|gyakorlat1_1\\gyakorlat1_1.csproj|solutionrelative:gyakorlat1_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\EGYETEM\\V_felev\\GUI\\GUI_feladatok\\orai_munka\\gyakorlat1_1\\gyakorlat1_1\\Form1.cs",
+              "RelativeDocumentMoniker": "gyakorlat1_1\\Form1.cs",
+              "ToolTip": "D:\\EGYETEM\\V_felev\\GUI\\GUI_feladatok\\orai_munka\\gyakorlat1_1\\gyakorlat1_1\\Form1.cs",
+              "RelativeToolTip": "gyakorlat1_1\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:12:40.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\EGYETEM\\V_felev\\GUI\\GUI_feladatok\\orai_munka\\gyakorlat1_1\\gyakorlat1_1\\Form1.cs",
+              "RelativeDocumentMoniker": "gyakorlat1_1\\Form1.cs",
+              "ToolTip": "D:\\EGYETEM\\V_felev\\GUI\\GUI_feladatok\\orai_munka\\gyakorlat1_1\\gyakorlat1_1\\Form1.cs [Design]",
+              "RelativeToolTip": "gyakorlat1_1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:07:57.241Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\bin\Debug\Szovegdobozok.exe.config
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\bin\Debug\Szovegdobozok.exe
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\bin\Debug\Szovegdobozok.pdb
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\obj\Debug\Szovegdobozok.csproj.AssemblyReference.cache
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\obj\Debug\Szovegdobozok.Form1.resources
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\obj\Debug\Szovegdobozok.Properties.Resources.resources
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\obj\Debug\Szovegdobozok.csproj.GenerateResource.cache
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\obj\Debug\Szovegdobozok.csproj.CoreCompileInputs.cache
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\obj\Debug\Szovegdobozok.exe
+D:\EGYETEM\V_felev\GUI\GUI_feladatok\orai_munka\Szovegdobozok\Szovegdobozok\obj\Debug\Szovegdobozok.pdb
